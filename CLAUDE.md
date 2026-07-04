@@ -30,13 +30,23 @@ Secondary goal: the owner also wants to **master Git/GitHub** while building thi
 ## Repository structure
 
 ```
-python/      15 lessons → generic Python cemented toward data eng / FastAPI / data science
-sql/         15 lessons → PostgreSQL-first, confident toward data engineering + Kafka/streaming
-linux/       15 lessons → toward DevOps / platform / Linux developer
-combined/    cross-track exercises (2 or 3 technologies together)
-capstones/   10 production-grade projects (built AFTER the 45 lessons)
-github/      Git & GitHub mastery track
+python/           15 lessons → generic Python cemented toward data eng / FastAPI / data science
+sql/              15 lessons → PostgreSQL-first, confident toward data engineering + Kafka/streaming
+linux/            15 lessons → toward DevOps / platform / Linux developer
+combined/         cross-track exercises (2 or 3 technologies together)
+capstones/        10 production-grade projects (built AFTER the 45 lessons)
+github/           Git & GitHub mastery track
+fastapi-surwill/  13 lessons → production FastAPI taught from a REAL codebase (the Surwill
+                  gift-wishlist backend), with deep dives on arq workers, the web-scraping
+                  subsystem, and pytest, plus an interview playbook. See its own README.
 ```
+
+The `fastapi-surwill/` track is code-anchored: every example is real code from the
+Surwill backend (a FastAPI + async SQLAlchemy + Postgres + Redis + arq + Playwright-
+scraping app), quoted with file paths and explained. It keeps the standard lesson
+sections but reframes "Real-world examples" as "The code, explained" and homework as
+"Exercises against the codebase." Its two goals: master production FastAPI, and be able
+to present Surwill confidently in an interview (lesson 13 is a dedicated playbook).
 
 Each track folder has a `README.md` acting as its syllabus (the 15 topics + status). Lessons are files named `lesson-NN-kebab-topic.md` (e.g. `python/lesson-01-environment-and-execution-model.md`).
 

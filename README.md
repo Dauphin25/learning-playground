@@ -14,6 +14,7 @@ A personal **6-month curriculum** to master **Python, SQL, and Linux** — indep
 | 🔗 Combined | [`combined/`](combined/) | Exercises that combine 2–3 of the tracks |
 | 🏗️ Capstones | [`capstones/`](capstones/) | 10 production-grade projects built after the 45 lessons |
 | 🌳 Git/GitHub | [`github/`](github/) | Master Git & GitHub while building this repo |
+| ⚡ FastAPI (Surwill) | [`fastapi-surwill/`](fastapi-surwill/) | Production FastAPI taught from a real codebase — with **arq workers**, a **web-scraping subsystem**, and **pytest** deep dives, plus an interview playbook |
 
 Each track has 15 lessons. Every lesson is a self-contained ~2-hour deep dive with theory, official-doc quotes, real-world examples, a **How This Is Used In Production** section, best practices, interview Q&A, and Easy/Medium/Hard homework. See [`CLAUDE.md`](CLAUDE.md) for the exact lesson format.
 
