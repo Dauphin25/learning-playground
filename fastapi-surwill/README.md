@@ -58,9 +58,13 @@ API, worker, Next.js frontend.
 | 11 | [**Deep dive:** testing with pytest](lesson-11-testing-with-pytest.md) | ✅ |
 | 12 | [Docker, deployment & CI](lesson-12-docker-deployment-and-ci.md) | ✅ |
 | 13 | [The interview playbook](lesson-13-interview-playbook.md) | ✅ |
+| 14 | [**Deep dive:** live presence — Redis sorted sets & heartbeats](lesson-14-live-presence-redis-sorted-sets.md) | ✅ |
 
 Lessons 09–11 are the requested deep dives — noticeably longer and more granular
 than the rest. Do them slowly, with the Surwill repo open in the other window.
+Lesson 14 dissects one small real feature (the landing page's live "on this
+page right now" strip) end to end — frontend heartbeat → optional-auth route →
+Redis sorted set — as a compressed system-design case study.
 
 ## How to study
 
