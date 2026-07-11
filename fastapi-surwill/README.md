@@ -59,12 +59,21 @@ API, worker, Next.js frontend.
 | 12 | [Docker, deployment & CI](lesson-12-docker-deployment-and-ci.md) | ✅ |
 | 13 | [The interview playbook](lesson-13-interview-playbook.md) | ✅ |
 | 14 | [**Deep dive:** live presence — Redis sorted sets & heartbeats](lesson-14-live-presence-redis-sorted-sets.md) | ✅ |
+| 15 | [**Deep dive:** advanced SQLAlchemy patterns](lesson-15-sqlalchemy-advanced-patterns.md) | ✅ |
+| 16 | [**Deep dive:** Redis for caching, quotas & rate limiting](lesson-16-redis-caching-quotas-and-rate-limiting.md) | ✅ |
+| 17 | [From Django to FastAPI — a translation guide](lesson-17-from-django-to-fastapi.md) | ✅ |
 
 Lessons 09–11 are the requested deep dives — noticeably longer and more granular
 than the rest. Do them slowly, with the Surwill repo open in the other window.
 Lesson 14 dissects one small real feature (the landing page's live "on this
 page right now" strip) end to end — frontend heartbeat → optional-auth route →
-Redis sorted set — as a compressed system-design case study.
+Redis sorted set — as a compressed system-design case study. Lessons 15–16
+return to SQLAlchemy and Redis with a wider lens than lessons 06 and 14 —
+relationships/cascades/transactions, and caching/quotas/rate-limiting, each
+grounded in real Surwill code you haven't seen yet in earlier lessons. Lesson
+17 is for readers coming from Django: a systematic, side-by-side translation
+of every major concept, written to convert existing Django instincts into
+idiomatic FastAPI/SQLAlchemy ones rather than teach web development from zero.
 
 ## How to study
 

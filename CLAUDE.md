@@ -36,9 +36,11 @@ linux/            15 lessons → toward DevOps / platform / Linux developer
 combined/         cross-track exercises (2 or 3 technologies together)
 capstones/        10 production-grade projects (built AFTER the 45 lessons)
 github/           Git & GitHub mastery track
-fastapi-surwill/  13 lessons → production FastAPI taught from a REAL codebase (the Surwill
+fastapi-surwill/  17 lessons → production FastAPI taught from a REAL codebase (the Surwill
                   gift-wishlist backend), with deep dives on arq workers, the web-scraping
-                  subsystem, and pytest, plus an interview playbook. See its own README.
+                  subsystem, pytest, live-presence Redis, advanced SQLAlchemy, Redis
+                  caching/quotas/rate-limiting, and a Django-to-FastAPI translation guide,
+                  plus an interview playbook. See its own README.
 ```
 
 The `fastapi-surwill/` track is code-anchored: every example is real code from the
