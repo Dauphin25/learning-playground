@@ -11,9 +11,9 @@ PostgreSQL-first SQL, taken to the point of **confidence** — querying, modelin
 | 01 | [Relational fundamentals & PostgreSQL setup](lesson-01-relational-fundamentals-and-postgres-setup.md) | ✅ |
 | 02 | [Querying — SELECT, filtering, sorting, expressions](lesson-02-querying-select-filtering-sorting.md) | ✅ |
 | 03 | [Joins — inner, outer, self, cross, anti/semi](lesson-03-joins.md) | ✅ |
-| 04 | Aggregation — GROUP BY, HAVING, aggregate functions | ⬜ |
-| 05 | Subqueries & CTEs (incl. recursive) | ⬜ |
-| 06 | Window functions | ⬜ |
+| 04 | [Aggregation — GROUP BY, HAVING, aggregate functions](lesson-04-aggregation-group-by-having.md) | ✅ |
+| 05 | [Subqueries & CTEs (incl. recursive)](lesson-05-subqueries-and-ctes.md) | ✅ |
+| 06 | [Window functions](lesson-06-window-functions.md) | ✅ |
 | 07 | Data types, constraints & keys | ⬜ |
 | 08 | Schema design & normalization (ER modeling) | ⬜ |
 | 09 | Indexes & the query planner (`EXPLAIN`) | ⬜ |

@@ -11,9 +11,9 @@ Linux from the shell up, aimed at the **DevOps / platform engineer / Linux devel
 | 01 | [Linux foundations, filesystem hierarchy & the shell](lesson-01-foundations-filesystem-and-shell.md) | ✅ |
 | 02 | [Files, permissions & ownership](lesson-02-files-permissions-ownership.md) | ✅ |
 | 03 | [Text processing — pipes, grep, sed, awk](lesson-03-text-processing-grep-sed-awk.md) | ✅ |
-| 04 | Processes, jobs & signals | ⬜ |
-| 05 | Users, groups, sudo & PAM basics | ⬜ |
-| 06 | Package management & software installation | ⬜ |
+| 04 | [Processes, jobs & signals](lesson-04-processes-jobs-signals.md) | ✅ |
+| 05 | [Users, groups, sudo & PAM basics](lesson-05-users-groups-sudo-pam.md) | ✅ |
+| 06 | [Package management & software installation](lesson-06-package-management.md) | ✅ |
 | 07 | Bash scripting I — fundamentals | ⬜ |
 | 08 | Bash scripting II — robust scripts | ⬜ |
 | 09 | Networking fundamentals & tools | ⬜ |

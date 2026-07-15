@@ -11,9 +11,9 @@ Generic, durable Python — the kind that *cements* before you specialize into *
 | 01 | [Environment & the execution model](lesson-01-environment-and-execution-model.md) — interpreters, venvs, pip, project layout | ✅ |
 | 02 | [Data model, objects & memory](lesson-02-data-model-objects-and-memory.md) — names vs objects, mutability, identity | ✅ |
 | 03 | [Control flow, iteration & comprehensions](lesson-03-control-flow-iteration-comprehensions.md) | ✅ |
-| 04 | Functions, scope, closures & decorators | ⬜ |
-| 05 | Built-in data structures & `collections` | ⬜ |
-| 06 | OOP I — classes, dunder methods, properties | ⬜ |
+| 04 | [Functions, scope, closures & decorators](lesson-04-functions-scope-closures-decorators.md) | ✅ |
+| 05 | [Built-in data structures & `collections`](lesson-05-data-structures-and-collections.md) | ✅ |
+| 06 | [OOP I — classes, dunder methods, properties](lesson-06-oop-classes-dunder-properties.md) | ✅ |
 | 07 | OOP II — inheritance, composition, ABCs, dataclasses | ⬜ |
 | 08 | Errors, exceptions & context managers | ⬜ |
 | 09 | Modules, packages & imports | ⬜ |
